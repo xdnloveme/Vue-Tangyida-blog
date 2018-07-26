@@ -53,7 +53,7 @@ npm run build
 
 ## 项目结构
 
-#### 文件结构
+### 文件结构
 
 ```javascript
 |——build // 这里是放build的配置，包括vue项目本身的配置和webpack打包的配置
@@ -71,22 +71,22 @@ npm run build
 |		|——components // 页面其他所有组件
 ```
 
-#### 页面架构
+### 页面架构
 
 我把整体的页面架构从两个入口页面着手：
 
 - entry.vue
 - detail.vue
 
-#### 入口页面
+### 入口页面
 
-#####  #entry.vue
+####  #entry.vue
 
 这是四个路由（/，/blog，/life，/contact）四个页面的公用组件页面。头部和顶部导航栏是公用的。
 
 route-view对应接下来的四个（在文件夹cores里面的主页面），分别是index（主页），blog（博文页面），life（生活板块），contact（关于我）的构造。
 
-#####  #detail.vue
+####  #detail.vue
 
 这是两个页面（/detail，/detail/life）的公共组件页面。头部和文章标题等详细介绍是公用的。
 
