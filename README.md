@@ -18,25 +18,25 @@
 
 #### 一、主页
 
-![](/Users/tanghaoyi/Documents/study/vue-blog/vue-blog/src/assets/image/markdown/mark2.png)
+![](https://github.com/xdnloveme/Vue-Tangyida-blog/blob/master/src/assets/image/markdown/mark2.png?raw=true)
 
 #### 二、博客列表
 
-![](/Users/tanghaoyi/Documents/study/vue-blog/vue-blog/src/assets/image/markdown/mark4.png)
+![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark4.png)
 
 #### 三、生活版面
 
-![](/Users/tanghaoyi/Documents/study/vue-blog/vue-blog/src/assets/image/markdown/mark7.png)
+![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark7.png)
 
 #### 四、博文详细
 
-![](/Users/tanghaoyi/Documents/study/vue-blog/vue-blog/src/assets/image/markdown/mark8.png)
+![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark8.png)
 
 
 
 #### 五、关于我，留言
 
-![](/Users/tanghaoyi/Documents/study/vue-blog/vue-blog/src/assets/image/markdown/mark9.png)
+![](https://raw.githubusercontent.com/xdnloveme/Vue-Tangyida-blog/master/src/assets/image/markdown/mark9.png)
 
 ## 开始
 
