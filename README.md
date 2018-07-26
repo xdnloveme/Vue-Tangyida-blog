@@ -59,16 +59,16 @@ npm run build
 |——build // 这里是放build的配置，包括vue项目本身的配置和webpack打包的配置
 |——config // 这里是一些基本的项目配置
 |——static
-|	|——bootstrap // 这里放你需要外部引用的js，当然你通过添加依赖也可以
-|	|——jquery
+| |——bootstrap // 这里放你需要外部引用的js，当然你通过添加依赖也可以
+| |——jquery
 |——src
-|	|——assets // 这里放你需要的一些资源(本地图片，css，js，测试文章等)
-|	|——config // 这里是整体项目数据的存放点，也就是配置项
-|	|——router // 路由的配置
-|	|——utils // 所有工具类的通用js
-|	|——views // 所有页面
-|		|——cores // 主页面
-|		|——components // 页面其他所有组件
+| |——assets // 这里放你需要的一些资源(本地图片，css，js，测试文章等)
+| |——config // 这里是整体项目数据的存放点，也就是配置项
+| |——router // 路由的配置
+| |——utils // 所有工具类的通用js
+| |——views // 所有页面
+|  |——cores // 主页面
+|  |——components // 页面其他所有组件
 ```
 
 ### 页面架构
