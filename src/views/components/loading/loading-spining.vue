@@ -31,7 +31,7 @@ export default {
   right:0px;
   width: 100%;
   background-color: rgba(255,255,255,.99);
-  z-index: 999;
+  z-index: 10000;
 }
 .boxText{
   position: absolute;
